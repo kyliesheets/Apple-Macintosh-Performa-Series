@@ -1,5 +1,5 @@
 # Macintosh Performa 5200 Series
-## A comparison between two computers.
+## A comparison between two computers
 
 <img src="https://github.com/kyliesheets/Apple-Macintosh-Performa-Series/assets/156054977/cbc69f70-7c48-4ae4-b16d-91b3ad7f563d" width="330" height="400">
 😍😍😍
@@ -21,7 +21,7 @@ Here's a little comparison between the awesome **Macintosh Performa 5200CD** and
 *Reasons why I LOVE the Macintosha Performa 5300:*
 
 * The color is absolutely breathtaking, why isn't that color available to Apple's current computers??
-* It's such a brag-worthy piece of equipment. If people saw that in my house, they would say "Omg, what's that?" and I'd be like "Oh, just my Macintosha Performa 5200CD from the 90s. And then they'd be like "Ooh, vintage!"
+* It's such a brag-worthy piece of equipment. If people saw that in my house, they would say "Omg, what's that?" and I'd be like "Oh, just my Macintosha Performa 5200 from the 90s. And then they'd be like "Ooh, vintage!"
 * There's not as much storage as my Macbook Air, which would force me to conserve my space on the computer and allow me to learn how to organize well, manage my storage, and so much. They're all such valuable skills to have in life!
 * The graphics aren't as good, but personally, I take this as a good thing because it forces me to use my imagination to think of what my computer is trying to show me, which just allows me to become a more imaginative and creative person!
 * No one else has it. These days, people are all too alike and having this computer would definitely allow you to stand out from the rest. Be different! Be unique! Be originial! Be you!
@@ -30,7 +30,7 @@ Now [here's](https://docs.google.com/document/d/1-1k5BsmIiRmPTl4STH3k6MRFRq7qtSp
 
 <dl>
   <dt>Definition list (Just in case you haven't figured it out yet)</dt>
-  <dd>Macintosha Performa 5200 = The most amazing, high-tech, memorable, durable, and the type of computer people tell their kids about.</dd>
+  <dd>Macintosha Performa 5200: The most amazing, high-tech, memorable, durable, and the type of computer people tell their kids about.</dd>
 
   > Macintosha Performa 5200, voted best computer ever.
 > (Source: N/A)
