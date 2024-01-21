@@ -32,8 +32,7 @@ Now [here's](https://docs.google.com/document/d/1-1k5BsmIiRmPTl4STH3k6MRFRq7qtSp
   <dt>Definition list (Just in case you haven't figured it out yet)</dt>
   <dd>Macintosha Performa 5200: The most amazing, high-tech, memorable, durable, and the type of computer people tell their kids about.</dd>
 
-  > Macintosha Performa 5200, voted best computer ever.
-> (Source: N/A)
+  > Macintosha Performa 5200, voted best computer ever. (Source: N/A)
 
 
 <a href="https://www.youtube.com/watch?v=1roxDb-3Mcs" target="_blank"><img src="https://github.com/kyliesheets/Apple-Macintosh-Performa-Series/assets/156054977/8f948f67-8a01-4427-953b-1343d315d834" 
