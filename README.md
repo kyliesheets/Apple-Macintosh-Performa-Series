@@ -38,5 +38,19 @@ Now [here's](https://docs.google.com/document/d/1-1k5BsmIiRmPTl4STH3k6MRFRq7qtSp
 <a href="https://www.youtube.com/watch?v=1roxDb-3Mcs" target="_blank"><img src="https://github.com/kyliesheets/Apple-Macintosh-Performa-Series/assets/156054977/8f948f67-8a01-4427-953b-1343d315d834" 
 alt="Click the computer to go to a wonderful video about the Macintosha Performa 5200" width="240" height="180" border="10" /></a>
 
-Click the image of the computer to go to a wonderful video about the Macintosha Performa 5200.
+Click the image of the computer above to go to a wonderful video about the Macintosha Performa 5200.
 
+Here's our logo (hover to see the title text):
+
+<3
+![<3](https://github.com/kyliesheets/Apple-Macintosh-Performa-Series/assets/156054977/12fe4b4c-b8c6-4dc7-b843-ea9268e38613 "Logo Title Text 1")
+
+Who doesn't just love the Macintosha Performa 3200??
+
+---
+
+(There's only one answer BTW) 💗💗💗
+
+```javascript
+#MacintoshaPerforma52004Life
+```
